@@ -1,5 +1,6 @@
 ## Hi I’m Noelia 👋
 
+<img width="2480" height="1426" alt="image" src="https://github.com/user-attachments/assets/e4e23c40-1fc6-4695-b8b1-8b408ee16b6f" />
 <!--
 **Noelia-GP/Noelia-GP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
