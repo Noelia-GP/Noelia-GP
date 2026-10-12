@@ -1,4 +1,5 @@
-## Hi I’m Noelia 👋
+<div align="center">
+<h1 align="center">Hi, I’m Noelia</a> 👋</h1>
 
 <img width="2480" height="1426" alt="image" src="https://github.com/user-attachments/assets/e4e23c40-1fc6-4695-b8b1-8b408ee16b6f" />
 <!--
